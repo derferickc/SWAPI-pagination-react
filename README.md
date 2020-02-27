@@ -1,4 +1,4 @@
-<a href="https://nasa-image-metadata.web.app/">
+<a href="https://swapi-3ad1b.firebaseapp.com">
 	<img src="https://firebasestorage.googleapis.com/v0/b/swapi-3ad1b.appspot.com/o/download.jpeg?alt=media&token=22594791-0cd0-4bea-b7e5-ec62ada46eaf" title="swapi-logo" alt="swapi-logo" width="150">
 </a>
 
@@ -22,4 +22,4 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `git clone https://github.com/derferickc/nasa-image-metadata`
+- Clone this repo to your local machine using `git clone SWAPI-pagination-react`
